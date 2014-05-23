@@ -18,7 +18,8 @@ import java.security.PrivateKey;
 import java.security.PublicKey;
 
 /**
- * Created by abstractj on 5/22/14.
+ * Just an example about how to extract the keys from a PEM encoded files
+ * 
  */
 public class KeyExtractor {
 
